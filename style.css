@@ -1,0 +1,7 @@
+body{
+    background-color:rgb(253, 216, 228) ;
+}
+.cat2 {
+    display: flex;
+    justify-content: center;
+}
